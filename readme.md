@@ -1,6 +1,9 @@
 <h1> Dashboard Fórmula 1 </h1>
 
-<h3> Análise exploratória de pilotos e equipes de fórmula 1 no período de 2007 à 20017.</h3>
+<h3> Análise exploratória de pilotos e equipes de fórmula 1 no período de 2007 à 20017. E pode ser acessado através do link abaixo,
+
+[Dashboard - Fórmula 1](https://app.powerbi.com/links/XPxnhOJVJB?ctid=b1051c4b-3b94-41ab-9441-e73a72342fdd&pbi_source=linkShare)
+
 
 
 <h2><br>Medidas</h2>
@@ -56,7 +59,10 @@
 </ul>
 
 <h2> <br> Tratamento dos dados </h2>
-<h3> Análise e tratamentos da base de dados e realizado com python, [Scripts](https://github.com/Hiraee/Formula1/tree/main/Scripts_TratamentoDados) </h3>
+<h3> Análise e tratamentos da base de dados e realizado com python,  </h3> 
+
+[Scripts](https://github.com/Hiraee/Formula1/tree/main/Scripts_TratamentoDados) 
+
 <ul>
     <li><h3>Bibliotecas</h3></li>
     <ul>
